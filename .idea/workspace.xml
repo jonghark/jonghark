@@ -4,7 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127b0df1-08ff-4ad5-b4f7-e377fbf2f594" name="Changes" comment="" />
+    <list default="true" id="127b0df1-08ff-4ad5-b4f7-e377fbf2f594" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12901.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12903.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12906.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12912.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12915.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12916.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12918.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12922.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12930.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12931.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12933.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12935.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12947.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12948.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12950.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12954.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12969.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12977.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_42576.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_42746.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_42840_x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_68644.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_72410.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/skill_checks_309845.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/skill_checks_309858.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/testClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +82,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="20210901" />
+                    <option name="lastUsedInstant" value="1630456741" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1630456740" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="ProjectId" id="1xQRomk1ZtEU8Xgso2UKX09FJDe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -74,19 +139,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Solution_12901" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.Solution_12901" />
-      <module name="jonghark.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution_12915" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.Solution_12915" />
       <module name="jonghark.main" />
@@ -115,6 +167,32 @@
     </configuration>
     <configuration name="skill_checks_309858_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.skill_checks_309858_1" />
+      <module name="jonghark.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="skill_checks_310610_899" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.skill_checks_310610_899" />
+      <module name="jonghark.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="skill_checks_310610_954_x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.skill_checks_310610_954_x" />
       <module name="jonghark.main" />
       <extension name="coverage">
         <pattern>
@@ -216,10 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.skill_checks_310610_954_x" />
+        <item itemvalue="Application.skill_checks_310610_899" />
         <item itemvalue="Application.skill_checks_309858_1" />
         <item itemvalue="Application.skill_checks_309845" />
         <item itemvalue="Application.Solution_12915" />
-        <item itemvalue="Application.Solution_12901" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +316,7 @@
       <workItem from="1630285504630" duration="1501000" />
       <workItem from="1630287024370" duration="384000" />
       <workItem from="1630287424397" duration="94000" />
-      <workItem from="1630287550568" duration="4916000" />
+      <workItem from="1630287550568" duration="8041000" />
     </task>
     <servers />
   </component>
