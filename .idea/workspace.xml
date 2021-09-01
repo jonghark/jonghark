@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127b0df1-08ff-4ad5-b4f7-e377fbf2f594" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/SolutionLevel1_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12901.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12903.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12906.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12912.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12915.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12916.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12918.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12922.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12930.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12931.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12933.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12935.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12947.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12948.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12950.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12954.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12969.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_12977.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_42576.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_42746.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_42840_x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_68644.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/Solution_72410.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/skill_checks_309845.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/skill_checks_309858.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/example/testClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-    </list>
+    <list default="true" id="127b0df1-08ff-4ad5-b4f7-e377fbf2f594" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +276,7 @@
       <workItem from="1630285504630" duration="1501000" />
       <workItem from="1630287024370" duration="384000" />
       <workItem from="1630287424397" duration="94000" />
-      <workItem from="1630287550568" duration="8041000" />
+      <workItem from="1630287550568" duration="8344000" />
     </task>
     <servers />
   </component>
