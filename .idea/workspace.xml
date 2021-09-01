@@ -75,11 +75,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Solution_12901" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Solution_12901" />
+      <option name="MAIN_CLASS_NAME" value="examples.Solution_12901" />
       <module name="jonghark.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Solution_12915" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.Solution_12915" />
+      <option name="MAIN_CLASS_NAME" value="examples.Solution_12915" />
       <module name="jonghark.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="skill_checks_309845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.skill_checks_309845" />
+      <option name="MAIN_CLASS_NAME" value="examples.skill_checks_309845" />
       <module name="jonghark.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="skill_checks_309858_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.skill_checks_309858_1" />
+      <option name="MAIN_CLASS_NAME" value="examples.skill_checks_309858_1" />
       <module name="jonghark.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.*" />
+          <option name="PATTERN" value="examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
