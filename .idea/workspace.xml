@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127b0df1-08ff-4ad5-b4f7-e377fbf2f594" name="Changes" comment="" />
+    <list default="true" id="127b0df1-08ff-4ad5-b4f7-e377fbf2f594" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +22,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="jonghark" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -41,6 +38,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
@@ -98,7 +103,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.skill_checks_309845">
     <configuration name="Solution_12915" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.Solution_12915" />
       <module name="jonghark.main" />
@@ -254,10 +259,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.skill_checks_309845" />
         <item itemvalue="Application.skill_checks_310610_954_x" />
         <item itemvalue="Application.skill_checks_310610_899" />
         <item itemvalue="Application.skill_checks_309858_1" />
-        <item itemvalue="Application.skill_checks_309845" />
         <item itemvalue="Application.Solution_12915" />
       </list>
     </recent_temporary>
@@ -276,7 +281,8 @@
       <workItem from="1630285504630" duration="1501000" />
       <workItem from="1630287024370" duration="384000" />
       <workItem from="1630287424397" duration="94000" />
-      <workItem from="1630287550568" duration="8344000" />
+      <workItem from="1630287550568" duration="9060000" />
+      <workItem from="1633663081484" duration="40000" />
     </task>
     <servers />
   </component>
