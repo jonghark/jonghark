@@ -14,7 +14,6 @@ public class ServerController {
 
     @RequestMapping(value = "/index", method = RequestMethod.GET)
     public String main(Model model){
-        System.out.println("====main");
         return "/index";
     }
 
