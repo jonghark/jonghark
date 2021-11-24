@@ -17,4 +17,9 @@ public class ServerController {
         return "/index";
     }
 
+    @RequestMapping(value ="/apiTest", method = RequestMethod.GET)
+    public String main(){
+        return "/index";
+    }
+
 }
