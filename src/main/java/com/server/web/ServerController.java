@@ -1,8 +1,8 @@
 package com.server.web;
 
+import com.server.domain.ApiTestVO;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -28,9 +28,10 @@ public class ServerController {
 
     @RequestMapping(value ="/apiTest", method = RequestMethod.POST, headers="Accept=application/json", produces="application/json")
     @ResponseBody
-    public ResponseEntity<?> apiTest(HttpServletRequest request){
+    public ResponseEntity<?> apiTest(@ModelAttribute ApiTestVO apiTestVO , HttpServletRequest request){
         Map<String,Object> resultMap = new HashMap<>();
         System.out.println("====="+request.getParameter("param1"));
+        System.out.println("=>>>>>" + apiTestVO.getParam1());
         return new ResponseEntity<>(resultMap, HttpStatus.OK);
     }
 
