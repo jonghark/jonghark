@@ -1,6 +1,7 @@
 package com.server.web;
 
 import com.server.domain.ApiTestVO;
+import com.server.service.ServerService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
@@ -21,6 +22,8 @@ import java.util.Map;
 @Slf4j
 public class ServerController {
 
+    private final ServerService serverService;
+
     @RequestMapping(value = "/index", method = RequestMethod.GET)
     public String main(Model model){
         return "/index";
@@ -30,8 +33,8 @@ public class ServerController {
     @ResponseBody
     public ResponseEntity<?> apiTest(@ModelAttribute ApiTestVO apiTestVO , HttpServletRequest request){
         Map<String,Object> resultMap = new HashMap<>();
-        System.out.println("====="+request.getParameter("param1"));
-        System.out.println("=>>>>>" + apiTestVO.getParam1());
+        apiTestVO = serverService.serverServiceTest(apiTestVO);
+        resultMap.put("data",apiTestVO);
         return new ResponseEntity<>(resultMap, HttpStatus.OK);
     }
 
