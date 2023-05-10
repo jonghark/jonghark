@@ -8,7 +8,7 @@ public class Example_list {
         for(String data : arrStr){
             System.out.println("data = " + data);
         }
-        List<String> list = Arrays.asList(arrStr);
+        List<String> list = new ArrayList<>(Arrays.asList(arrStr));
 
         System.out.println("list = " + list);
 
@@ -16,5 +16,6 @@ public class Example_list {
         System.out.println("sort list = " + list);
         Collections.sort(list, Comparator.reverseOrder());
         System.out.println("reverseSort = " + list);
+        System.out.println(list.remove("3"));
     }
 }
