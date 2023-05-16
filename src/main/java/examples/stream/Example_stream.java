@@ -33,6 +33,8 @@ public class Example_stream {
         int n = 15;
         int k = 5; //n/k만큼
         System.out.println(Arrays.toString(IntStream.rangeClosed(1, n).filter(i -> i % k == 0).toArray()));
-
+        int[] arr = {293, 1000, 395, 678, 94};
+        int[] delete_list = {94, 777, 104, 1000, 1, 12};
+        IntStream.of(arr).filter(i -> !IntStream.of(delete_list).anyMatch(s -> s == i)).toArray();
     }
 }
