@@ -38,12 +38,4 @@ public class ServerController {
         return new ResponseEntity<>(resultMap, HttpStatus.OK);
     }
 
-    //test
-    //test
-    //3333
-    //1111
-    //2222
-    //develop11
-
-    //testewsteste
 }
