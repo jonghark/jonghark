@@ -22,4 +22,8 @@ public class Example_list {
     public void test(){
 
     }
+
+    public void test2(){
+        
+    }
 }
