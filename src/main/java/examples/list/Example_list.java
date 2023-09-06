@@ -30,4 +30,8 @@ public class Example_list {
     public void test5(){
 
     }
+
+    public void test6(){
+
+    }
 }
