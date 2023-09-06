@@ -34,4 +34,8 @@ public class Example_list {
     public void test6(){
 
     }
+
+    public void test7(){
+
+    }
 }
