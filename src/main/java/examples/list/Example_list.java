@@ -18,4 +18,8 @@ public class Example_list {
         System.out.println("reverseSort = " + list);
         System.out.println(list.remove("3"));
     }
+
+    public void test(){
+
+    }
 }
