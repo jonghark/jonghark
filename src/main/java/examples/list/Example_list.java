@@ -38,4 +38,8 @@ public class Example_list {
     public void test7(){
 
     }
+
+    public void test8(){
+
+    }
 }
