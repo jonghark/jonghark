@@ -26,4 +26,23 @@ public class Example_list {
     public void test2(){
         
     }
+    public void test4(){
+
+    }
+
+    public void test6(){
+
+    }
+
+    public void test5(){
+
+    }
+
+    public void test7(){
+
+    }
+
+    public void test8(){
+
+    }
 }
