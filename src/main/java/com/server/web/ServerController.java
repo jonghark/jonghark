@@ -38,9 +38,6 @@ public class ServerController {
         return new ResponseEntity<>(resultMap, HttpStatus.OK);
     }
 
-    //test
-    //test
-    //1111
-    //2222
-    //develop11
+
+    //adssf
 }
