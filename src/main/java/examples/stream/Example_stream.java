@@ -36,5 +36,6 @@ public class Example_stream {
         int[] arr = {293, 1000, 395, 678, 94};
         int[] delete_list = {94, 777, 104, 1000, 1, 12};
         IntStream.of(arr).filter(i -> !IntStream.of(delete_list).anyMatch(s -> s == i)).toArray();
+        //test
     }
 }
