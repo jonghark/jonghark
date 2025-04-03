@@ -1,8 +1,8 @@
 package examples.stream;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
+import examples.string.User;
+
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -36,5 +36,20 @@ public class Example_stream {
         int[] arr = {293, 1000, 395, 678, 94};
         int[] delete_list = {94, 777, 104, 1000, 1, 12};
         IntStream.of(arr).filter(i -> !IntStream.of(delete_list).anyMatch(s -> s == i)).toArray();
+
+
+
+        Arrays.stream(num_list).filter(a->a%2 == 0).forEach(System.out::println);
+
+        User user = User.builder().name("aaa").build();
+        System.out.println(user.getName());
+        Map<String,Object> map = new HashMap<>();
+        for(int i=0; i<10; i++){
+            map.put("A"+i, i);
+        }
+        Map<String,Object> map2 = new HashMap<>();
+        IntStream.range(0,10).forEach(s->map2.put("A"+s,s));
+
+        map2.forEach((key, value)->System.out.println("key = "+ key + " :: value = " +value ));
     }
 }
